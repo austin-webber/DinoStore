@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - A
+  - T
+  - C
+  - G
+  - FinalA
+  - FinalT
+  - FinalG
+  - FinalC
+  - Music
   layers:
   - Default
   - TransparentFX
@@ -40,4 +49,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2809608231
+    locked: 0
+  - name: Middleground
+    uniqueID: 2964232905
+    locked: 0
+  - name: Foreground
+    uniqueID: 3368898941
+    locked: 0
+  - name: Front
+    uniqueID: 1740908635
+    locked: 0
+  - name: Player
+    uniqueID: 378447027
     locked: 0
